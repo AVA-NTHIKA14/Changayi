@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundColor">#F5F5F5</color> <!-- Light grey background -->
+    <color name="primaryTextColor">#333333</color> <!-- Dark text -->
+    <color name="secondaryTextColor">#666666</color> <!-- Lighter text -->
+    <color name="hintTextColor">#AAAAAA</color> <!-- Hint text -->
+    <color name="buttonColor">#6200EE</color> <!-- Purple button -->
+    <color name="buttonPressedColor">#3700B3</color> <!-- Darker purple -->
+    <color name="purple_500">#9C27B0</color>  <!-- Purple -->
+    <color name="teal_700">#00796B</color>    <!-- Teal -->
+</resources>

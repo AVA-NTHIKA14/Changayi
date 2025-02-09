@@ -1,4 +1,4 @@
-##**Changayi(ചങ്ങായി)**
+## Changayi(ചങ്ങായി)
 
 Changai is an AI-powered, user-friendly mental support app that helps users express their emotions freely while receiving empathetic responses tailored to their mood. Whether you're feeling joyful, overwhelmed, or neutral, Chengai offers the right words of encouragement, motivation, and comfort.
 
